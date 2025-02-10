@@ -5,7 +5,7 @@
 L'objectif de cette mission est d'analyser les blessures des athlètes en utilisant des indicateurs clés de performance (KPI) et d'explorer les relations entre les charges d'entraînement, les risques de blessure et la performance.
 
 📄 Lien vers le Notebook : [Le collab d’exploration](https://colab.research.google.com/drive/1bJbPbqnDcj-A93NiFGmhWAx1ocFwYcUy?usp=sharing)  
-📄 Lien vers le Dataset  : [Le dataset Kaggle](https://www.kaggle.com/datasets/ziya07/athlete-injury-and-performance-dataset)
+📄 Lien vers le Dataset  : [Le dataset Kaggle](https://www.kaggle.com/datasets/ziya07/athlete-injury-and-performance-dataset)  
 Ce collab m'a permis dans un premier temps d'explorer le dataset
 
 ## 📊 KPI Suivis
