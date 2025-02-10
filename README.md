@@ -18,7 +18,7 @@ Impact des blessures sur la performance : Comparaison des performances d’un at
 
 Taux de récurrence des blessures : Pourcentage de blessures récurrentes chez les athlètes.
 
-🗂️ Structure des Données
+### 🗂️ Structure des Données
 
 1. Athlete Information
 
