@@ -1,12 +1,12 @@
-Mission Data
+# Mission Data
 
-📌 Objectif
+## 📌 Objectif
 
 L'objectif de cette mission est d'analyser les blessures des athlètes en utilisant des indicateurs clés de performance (KPI) et d'explorer les relations entre les charges d'entraînement, les risques de blessure et la performance.
 
 📄 Lien vers le Notebook : Le collab d’exploration
 
-📊 KPI Suivis
+## 📊 KPI Suivis
 
 Fréquence des blessures par athlète : Nombre total de blessures subies par chaque athlète sur une période donnée.
 
@@ -68,29 +68,29 @@ Team_Contribution_Score : Score de contribution à l'équipe (50–100).
 
 📈 Analyse des Corrélations
 
-🔥 Corrélations fortes (positives)
+## 🔥 Corrélations fortes (positives)
 
 Load_Balance_Score et Team_Contribution_Score (~0.6) → Un bon équilibre de charge est associé à une meilleure contribution à l'équipe.
 
 ACL_Risk_Score et Team_Contribution_Score (~0.6) → Un risque élevé de blessure pourrait être lié à une forte contribution à l’équipe.
 
-❄️ Corrélations modérées (négatives)
+## ❄️ Corrélations modérées (négatives)
 
 Load_Balance_Score et Rest_Between_Events_Days (~-0.5) → Plus de jours de repos entre les événements entraînent un score d'équilibre de charge plus faible.
 
 Load_Balance_Score et Injury_Indicator (~-0.5) → Une meilleure gestion de charge réduit les blessures.
 
-📉 Corrélations faibles
+## 📉 Corrélations faibles
 
 La majorité des autres variables présentent des corrélations faibles (~0), suggérant peu de relation entre elles.
 
-🔎 Exploitation des Corrélations
+## 🔎 Exploitation des Corrélations
 
 L’étude de la relation entre ACL_Risk_Score et Team_Contribution_Score pourrait aider à comprendre l'impact des charges de travail élevées sur le risque de blessure.
 
 Certaines variables faiblement corrélées avec Injury_Indicator pourraient nécessiter une transformation pour améliorer leur pertinence dans un modèle prédictif.
 
-📌 Prochaines étapes :
+## 📌 Prochaines étapes :
 
 Exploration approfondie des variables influençant le risque de blessure.
 
