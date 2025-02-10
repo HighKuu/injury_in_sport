@@ -98,5 +98,4 @@ Exploration approfondie des variables influençant le risque de blessure.
 
 Identification des meilleurs indicateurs pour la prévention et la réhabilitation.
 
-Modélisation prédictive pour anticiper les risques de blessure.
 
