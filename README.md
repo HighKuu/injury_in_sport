@@ -20,7 +20,7 @@ Taux de récurrence des blessures : Pourcentage de blessures récurrentes chez l
 
 ### 🗂️ Structure des Données
 
-#### 1. Athlete Information
+#### 🔹 Athlete Information
 
 Athlete_ID : Identifiant unique de l'athlète.
 
@@ -34,7 +34,7 @@ Weight_kg : Poids en kilogrammes (55–100 kg).
 
 Position : Poste dans l'équipe (Guard, Forward, Center).
 
-#### 2. Training Information
+#### 🔹 Training Information
 
 Training_Intensity : Intensité moyenne des entraînements (1-10).
 
@@ -42,23 +42,23 @@ Training_Hours_Per_Week : Heures d'entraînement par semaine (5–20 heures).
 
 Recovery_Days_Per_Week : Nombre de jours de récupération par semaine (1–3 jours).
 
-#### 3. Schedule Information
+#### 🔹 Schedule Information
 
 Match_Count_Per_Week : Nombre de matchs par semaine (1–4 matchs).
 
 Rest_Between_Events_Days : Nombre moyen de jours de repos entre les matchs (1–3 jours).
 
-#### 4. Derived Features
+#### 🔹 Derived Features
 
 Load_Balance_Score : Score (0–100) indiquant l'équilibre entre charge d'entraînement et récupération.
 
 ACL_Risk_Score : Score de risque de blessure des ligaments croisés antérieurs (0–100).
 
-#### 5. Injury Information
+#### 🔹 Injury Information
 
 Injury_Indicator : Indicateur de blessure (1 = Oui, 0 = Non).
 
-#### 6. Performance Metrics
+#### 🔹 Performance Metrics
 
 Fatigue_Score : Niveau de fatigue perçu (1–10).
 
