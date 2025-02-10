@@ -9,15 +9,15 @@ Ce collab m'a permis dans un premier temps d'explorer le dataset
 
 ## 📊 KPI Suivis
 
-Fréquence des blessures par athlète : Nombre total de blessures subies par chaque athlète sur une période donnée.
+▪️ Fréquence des blessures par athlète : Nombre total de blessures subies par chaque athlète sur une période donnée.
 
-Taux de blessures par type d’activité : Pourcentage de blessures survenues lors de différentes activités ou sports.
+▪️ Taux de blessures par type d’activité : Pourcentage de blessures survenues lors de différentes activités ou sports.
 
-Temps moyen de récupération : Durée moyenne nécessaire à un athlète pour se rétablir complètement après une blessure.
+▪️ Temps moyen de récupération : Durée moyenne nécessaire à un athlète pour se rétablir complètement après une blessure.
 
-Impact des blessures sur la performance : Comparaison des performances d’un athlète avant et après une blessure.
+▪️ Impact de la faitgue sur la performance : Comparaison des performances d’un athlète fatigué et d'un athlète - fatigué .
 
-Taux de récurrence des blessures : Pourcentage de blessures récurrentes chez les athlètes.
+▪️ Nombre de jour de repos pour éviter au mieux la blessure
 
 ### 🗂️ Structure des Données
 
